@@ -27,6 +27,7 @@ public class WebDriverCommLib
 	public void waitElement() throws Exception
 	{
 		Thread.sleep(000);
+		//snefgfh
 		
 	}
 	
